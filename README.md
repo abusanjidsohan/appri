@@ -1,2 +1,4 @@
 # appri
-Appri is HTML template. Here used HTML CSS and JavaScript.
+Appri is HTML template. 
+Here used HTML CSS and JavaScript.
+Responsive Designed.
